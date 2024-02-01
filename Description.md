@@ -4,11 +4,9 @@ Explore my Data Structures and Algorithms (DSA) course repository! Dive into ass
 
 This repository is organized to showcase my work throughout the course, and it will be regularly updated with new assignments and projects.
 
-## Course Advisor: 
-              -Basic DSA
-              Dr. Sonika Thakral (Professor at DU) 
-              -Advance DSA
-              Dr. Prosenjit Gupta ( Professor at IIT Kanpur)
+## Course Advisor: -
+## Basic DSA: Dr. Sonika Thakral (Professor at DU) 
+## Advance DSA:  Dr. Prosenjit Gupta ( Professor at IIT Kanpur)
 
 ## Table of Contents
 - In this course, we will explore the fundamental principles of Data Structures and Algorithms.
