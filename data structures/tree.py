@@ -2,7 +2,7 @@
 class Tree:
     """Abstract base class representing a tree structure."""
 
-    # ----------------------- Nested Position class -----------------------
+    # ----------------------- Nested Position class -----------------------#
 
     class Position:
         """An abstraction representing the location of a single element."""
