@@ -1,4 +1,3 @@
-# import queue
 """ The Deque Abstract Data Type.  
     It gives us flexibility that we can add or delete from both ends of the deque.
 """
